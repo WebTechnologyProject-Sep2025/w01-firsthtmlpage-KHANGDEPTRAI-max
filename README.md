@@ -1,2 +1,3 @@
-LAB01
-Đặng Gia Khang
+Lab01
+Khang Dang
+clas COS10026.2
